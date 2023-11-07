@@ -14,32 +14,32 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tech Tracker # the main title
+title: Valour In Pride # the main title
 
-tagline: < Technology Simplified > # it will display as the sub-title
+tagline: < Akhand Bharat ⛳ > # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  We strive to provide useful content on technology with hand-picked news for everyone in simplified manner .
+  सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग् भवेत्।।.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://valourinpride.github.io"
 
 github:
-  username: techtracker5 # change to your github username
+  username: valourinpride # change to your github username
 
 twitter:
-  username: techtracker5 # change to your twitter username
+  username: valourinpride # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Mark Evans 
-  email: techtracker.in@gmail.com # change to your email address
+  name: Valour In Pride 
+  email: valourinpride@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/techtracker5 # change to your twitter homepage
-    - https://github.com/techtracker5 # change to your github homepage
+    - https://twitter.com/valourinpride # change to your twitter homepage
+    - https://github.com/valourinpride # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/techtracker5 
     # - https://www.linkedin.com/in/techtracker5 
